@@ -5,5 +5,5 @@ Aplicação Web consumindo uma API dos Correios para estudar a utilização do B
 
 
 Fontes: 
-https://medium.com/@lucas.eschechola/blazor-e-a-revolu%C3%A7%C3%A3o-do-c-consumindo-uma-web-api-805a0bebda8d
-https://balta.io/blog/blazor-e-o-futuro-da-web
+* https://medium.com/@lucas.eschechola/blazor-e-a-revolu%C3%A7%C3%A3o-do-c-consumindo-uma-web-api-805a0bebda8d
+* https://balta.io/blog/blazor-e-o-futuro-da-web
